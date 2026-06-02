@@ -1,6 +1,4 @@
-# Netflix_Analysis_with_EDA-Techniques
-
-🎬 Netflix Data Analysis – Exploratory Data Analysis (EDA)
+#🎬 Netflix Data Analysis – Exploratory Data Analysis (EDA)
 
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Netflix Titles dataset. It uncovers meaningful insights about content trends, genres, ratings, durations, and global distribution to support content strategy and decision-making.
 
