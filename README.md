@@ -1,8 +1,9 @@
-**#🎬 Netflix Data Analysis – Exploratory Data Analysis (EDA)
-**
+# **🎬 Netflix Data Analysis – Exploratory Data Analysis (EDA)**
+
+
 This project performs an in-depth Exploratory Data Analysis (EDA) on the Netflix Titles dataset. It uncovers meaningful insights about content trends, genres, ratings, durations, and global distribution to support content strategy and decision-making.
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project aims to:
 
@@ -20,7 +21,7 @@ Examine movie durations and TV show season counts
 
 Identify patterns useful for strategy, recommendations, and content planning
 
-📁 Dataset
+## 📁 Dataset
 
 Source: Netflix Titles dataset
 
@@ -50,7 +51,7 @@ Split genres
 
 Converted dates to proper datetime formats
 
-🛠 Technologies Used
+## 🛠 Technologies Used
 
 Python
 
@@ -62,7 +63,7 @@ Matplotlib & Seaborn – data visualization
 
 Jupyter Notebook – analysis environment
 
-📊 Key Insights Extracted
+## 📊 Key Insights Extracted
 
 🔹 1. Genre Distribution
 
@@ -94,7 +95,7 @@ Movies mostly between 80–120 minutes
 
 TV Shows vary; many have 1–2 seasons (binge-friendly)
 
-📈 Visualizations Included
+## 📈 Visualizations Included
 
 Genre bar charts
 
@@ -114,10 +115,9 @@ Ratings vs Duration correlations
 
 Monthly/Yearly addition trends
 
-📘 Project Files in Repository
+## 📘 Project Files in Repository
 File	Description
 netflix_data_analysis.ipynb	Full Python analysis & visualizations
-Netflix_Data_Analysis_Presentation.pdf	Clean presentation summarizing insights
 netflix_titles.csv	Dataset used for analysis
 README.md	Documentation
 🚀 Future Improvements
@@ -136,5 +136,5 @@ This analysis provides strong insights into Netflix’s evolving content library
 
 👤 Author
 
-Amaan Uddin
+Inigoanand L
 Data Analyst | Python | SQL | Visualization
